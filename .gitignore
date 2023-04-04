@@ -2,3 +2,5 @@
 .env
 chat.postman_collection.json
 /media
+**/__pycache__/
+launch.json
