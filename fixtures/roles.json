@@ -1,0 +1,29 @@
+[
+  {
+    "model": "user_profile.role",
+    "pk": 1,
+    "fields": {
+      "name": "User",
+      "created_at": "2022-05-02T18:11:30.144Z",
+      "role": 1
+    }
+  },
+  {
+    "model": "user_profile.role",
+    "pk": 2,
+    "fields": {
+      "name": "Admin",
+      "created_at": "2022-05-02T18:11:46.924Z",
+      "role": 2
+    }
+  },
+  {
+    "model": "user_profile.role",
+    "pk": 3,
+    "fields": {
+      "name": "Owner",
+      "created_at": "2022-05-02T18:11:46.924Z",
+      "role": 3
+    }
+  }
+]

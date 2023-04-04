@@ -1,0 +1,19 @@
+[
+{
+    "model": "user_profile.user",
+    "pk": 1,
+    "fields": {
+        "last_login": null,
+        "created_at": "2023-04-02T12:20:19.945Z",
+        "name": "owner-name",
+        "surname": "owner-surname",
+        "login": "project_owner",
+        "password": "pbkdf2_sha256$260000$Tm6saoGQTIxXmKplLBUZiE$JtNFnRpQXvybsmFgW1zwmt2kQwIBecgtGs+J/PJGOAk=",
+        "private_password": "pbkdf2_sha256$260000$N8aMKc29sAHABVaDYO7Xmu$/0gldwJZcR2OqfOUIstFPw3VWvXlGBbwHRqnmglIUGI=",
+        "blocked_times": 0,
+        "unblock_date": null,
+        "role": 3,
+        "is_deleted": false
+    }
+}
+]
